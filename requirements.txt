@@ -1,0 +1,14 @@
+# Tell pip where to find JAX wheels
+-f https://storage.googleapis.com/jax-releases/jax_releases.html
+
+# Now list JAX in the normal way
+jax[cpu]
+
+numpy
+matplotlib
+hyperopt
+sympy
+scipy
+diffrax
+sympy2jax
+ott-jax
