@@ -107,8 +107,8 @@ python run_rebel.py
 
 Two interactive Jupyter notebooks demonstrate common use cases:
 
-- **examples/example1.ipynb** — Identification of the Lorenz system
-- **examples/example2.ipynb** — Explainable fMRI workflows via differential‐equation extraction
+- **examples/notebook_lorenz.ipynb** — Identification of the Lorenz system
+- **examples/notebook_cylinder.ipynb** — Explainable fMRI workflows via differential‐equation extraction
 
 Open them with:
 
@@ -138,4 +138,4 @@ MIT License — see `LICENSE` file.
 
 If you use this code, please cite:
 
-> Kroll, T. W., & Kamps, O. (2025). *Sparse identification of evolution equations via Bayesian model selection*. arXiv:2501.01476 citeturn1search0
+> Kroll, T. W., & Kamps, O. (2025). *Sparse identification of evolution equations via Bayesian model selection*. arXiv:2501.01476
